@@ -1,4 +1,4 @@
 redirect
 ========
 
-My account is now @eridke, this one is abandoned.
+My account is now [ericdke](https://github.com/ericdke), this one is abandoned.
